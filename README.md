@@ -16,7 +16,7 @@ O objetivo desse projeto foi aplicar meus aprendizados em HTML5, CSS3 e JavaScri
 ![layout.png](layout/layout.png)
 ### Autor
 
-LinkedIn:https://www.linkedin.com/in/alan-fernandes-03096317b/
+LinkedIn: https://www.linkedin.com/in/alan-fernandes-03096317b/
 
 Instagram: https://www.instagram.com/_alanfernds/
 

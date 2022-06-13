@@ -4,6 +4,8 @@ Este Projeto foi criado para colocar em prática meus conhecimentos adquiridos s
 
 O objetivo desse projeto foi aplicar meus aprendizados em HTML5, CSS3 e JavaScript para tornar a pagina dinâmica e por em prática meus conhecimentos sobre manipuilação da DOM
 
+Link:https://allanfernds.github.io/todo-list/
+
 ## Tecnologias utilizadas
 
 * HTML5
